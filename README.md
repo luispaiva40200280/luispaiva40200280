@@ -6,12 +6,9 @@
 ---
 
 ### 🧭 About Me
-- 🔭 I’m currently working on **libft** and other C projects  
+- 🔭 I’m currently working C projects in 42Porto  
 - 🌱 Learning more about **algorithms**, **system programming**, and **data structures**  
 - 💬 Ask me about **C**, **memory management**, and **debugging**  
-- 📫 How to reach me: [your email or link here]  
-- ⚡ Fun fact: I love optimizing code for performance!
-
 ---
 
 ### 🧰 Languages & Tools
