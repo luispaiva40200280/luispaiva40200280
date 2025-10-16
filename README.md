@@ -32,7 +32,9 @@
 
 ### 📊 GitHub Stats  
 
-> _You can embed GitHub stats, visitor badges, or language charts here._  
-
 ```md
-[![Luis’s GitHub stats](https://github-readme-stats.vercel.app/api?username=luispaiva40200280&show_icons=true&theme=default)](https://github.com/luispaiva40200280)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
