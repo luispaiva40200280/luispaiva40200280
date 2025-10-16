@@ -30,17 +30,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luispaiva40200280&show_icons=true&theme=github_dark&hide_border=true" alt="Luis Paiva's GitHub stats" />
 </p>
 
+
 ---
 
 ### 🏆 Streak & Languages
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=luispaiva40200280&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luispaiva40200280&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispaiva40200280&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
