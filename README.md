@@ -1,7 +1,7 @@
 <!-- Profile README for Luis Paiva -->
 
 <h1 align="center">Hi 👋, I'm Luis Paiva</h1>
-<h3 align="center">💻 Passionate about C programming, low-level systems, and problem-solving.</h3>
+<h3 align="center">💻 Studyng in 42Porto , C programming </h3>
 
 ---
 
