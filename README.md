@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Luis Paiva</h1>
 <h3 align="center">💻 Studyng in 42Porto , C programming </h3>
----
+
 
 ### 🧭 About Me
 - 🔭 I’m currently working C projects in 42Porto  
